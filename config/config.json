@@ -1,0 +1,10 @@
+{
+  "telegram_client": {
+    "phone": "",
+    "app_id": "",
+    "app_hash": ""
+  },
+  "telegram_bot": {
+    "token": ""
+  }
+}
